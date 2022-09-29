@@ -23,4 +23,4 @@ Given that there are always more shorthands, methods, and properties to learn, I
 
 Thank you for coming to my GitHub page!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielname)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danielname&theme=chartreuse-dark)](https://git.io/streak-stats)
