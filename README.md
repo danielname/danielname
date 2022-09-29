@@ -22,6 +22,6 @@ I have been successful in learning the fundamentals of Javascript, HTML, and CSS
 Given that there are always more shorthands, methods, and properties to learn, I am always looking to find new and more eifficient ways to complete any challenges that I have been presented with.
 
 Thank you for coming to my GitHub page!
-<div align="center">
-`${[![GitHub Streak](https://streak-stats.demolab.com/?user=danielname&theme=chartreuse-dark)](https://git.io/streak-stats)}
-<div>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danielname&theme=chartreuse-dark)](https://git.io/streak-stats)
