@@ -23,5 +23,5 @@ Given that there are always more shorthands, methods, and properties to learn, I
 
 Thank you for coming to my GitHub page!
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielname&theme=chartreuse-dark)](https://git.io/streak-stats)
+`${[![GitHub Streak](https://streak-stats.demolab.com/?user=danielname&theme=chartreuse-dark)](https://git.io/streak-stats)}
 <div>
